@@ -1,0 +1,20 @@
+{
+  "name": "webfirm-setup",
+  "authors": [
+    "ashish-webfirm"
+  ],
+  "description": "setup commna js css",
+  "main": "js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webfirm-asset": "ashish-webfirm/webfirm-asset#1.0.0"
+  }
+}
